@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 
-public class queueAct {
+public class priorityqueueAct {
     public static void main(String[] args){
         
         Queue<String> my = new PriorityQueue<>(Collections.reverseOrder());
